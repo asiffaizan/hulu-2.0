@@ -1,10 +1,10 @@
-#**Hulu-2.0: Redefining Entertainment, Revolutionizing Your Portfolio**
+<h1 align="center"> Hulu-2.0: Redefining Entertainment, Revolutionizing Your Portfolio </h1>
 
 
 This isn't just a Hulu clone. It's a Next.js playground showcasing my passion for building immersive, innovative streaming experiences.
 
 
-#What is here?:
+<h1>What is here?:</h1>
 
 **Next-level Navigation:** Say goodbye to clunky interfaces. Hulu-2.0 glides with intuitive search, personalized recommendations, and seamless device switching.
 
