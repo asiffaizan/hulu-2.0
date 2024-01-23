@@ -1,4 +1,6 @@
 #**Hulu-2.0: Redefining Entertainment, Revolutionizing Your Portfolio**
+
+
 This isn't just a Hulu clone. It's a Next.js playground showcasing my passion for building immersive, innovative streaming experiences.
 
 
