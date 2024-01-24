@@ -15,6 +15,7 @@ const Thumbnail = forwardRef(({result}, ref) => {
                 }
                 height={1080}
                 width={1920}
+                alt = ''
             />
 
             <div className="p-2">
@@ -30,5 +31,10 @@ const Thumbnail = forwardRef(({result}, ref) => {
         </div>
     );
 });
+
+//The error you're encountering, "Component definition is missing display name," is a common one that occurs when using the forwardRef feature in React. To resolve this, you need to assign a displayName property to your Thumbnail component. Here's an updated version of your code with the displayName set:
+
+
+Thumbnail.displayName = 'Thumbnail';
 
 export default Thumbnail;
